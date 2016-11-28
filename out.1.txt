@@ -1,0 +1,3 @@
+(0, 0) direccion Oeste
+(-1, 3) direccion Sur
+(-2, 4) direccion Norte
